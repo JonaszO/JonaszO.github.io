@@ -23259,6 +23259,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.exps.len,
 	cr.plugins_.Spritefont2.prototype.exps.Text,
 	cr.plugins_.TextBox.prototype.acts.SetText,
+	cr.system_object.prototype.acts.GoToLayout,
 	cr.plugins_.TiledBg.prototype.acts.MoveForward,
 	cr.plugins_.TiledBg.prototype.cnds.CompareX,
 	cr.plugins_.TiledBg.prototype.acts.SetX
