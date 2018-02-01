@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1517500054,
+	"version": 1517514171,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -124,10 +124,6 @@
 		"media/intros_003.ogg",
 		"media/revontuelt.m4a",
 		"media/revontuelt.ogg",
-		"media/friedman.m4a",
-		"media/friedman.ogg",
-		"media/lynch.m4a",
-		"media/lynch.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

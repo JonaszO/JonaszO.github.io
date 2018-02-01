@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1517500054
+#1517514171
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -123,10 +123,6 @@ media/intros_003.m4a
 media/intros_003.ogg
 media/revontuelt.m4a
 media/revontuelt.ogg
-media/friedman.m4a
-media/friedman.ogg
-media/lynch.m4a
-media/lynch.ogg
 icon-16.png
 icon-32.png
 icon-114.png
